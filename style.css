@@ -1,0 +1,27 @@
+/* bodyのスタイルを定義 */
+body {
+    text-align: center;
+}
+
+/* スタートボタンのスタイルを定義 */
+#start-btn {
+    margin: 20px;
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    background: rgb(192, 243, 192);
+    color: black;
+}
+
+/* 画像のスタイルを定義 */
+.button img {
+    max-width: 100%;
+    height: auto;
+}
+
+#omikuji-img {
+    margin-top: -550px;
+    max-width: 80%;
+    height: auto;
+}
